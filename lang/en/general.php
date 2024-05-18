@@ -1,0 +1,30 @@
+<?php
+
+return [
+    'dashbaord' => 'Dashboard',
+    'new' => 'New',
+    'webshop' => 'Webshop',
+    'date' => 'Date',
+    'status' => 'Status',
+    'select' => '--Select--',
+    'Caution' => 'Attention📢',
+    'close' => 'Close',
+    'confirm_delete' => 'Are You Sure to delete ',
+    'delete' => 'Delete',
+    'actions' => 'Actions',
+    'products' => 'Products',
+    'image' => 'image',
+    'product_name' => 'Product Name',
+    'ean' => 'EAN',
+    'product' => 'Prodcut',
+    'title' => 'title',
+    'country' => 'Country',
+    'save' => 'Save',
+    'name' => 'Name',
+    'email' => 'Email',
+    'number' => 'number',
+    'subject' => 'Subject',
+    'contacts' => 'Contact Messages',
+    'dashboard' => 'Dashboard',
+
+];
